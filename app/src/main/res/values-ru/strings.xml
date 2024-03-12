@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">практика3</string>
+    <string name="Welcome">Добро пожаловать студент</string>
+    <string name="Admission">Вход</string>
+    <string name="Name">Имя</string>
+    <string name="Surname">Фамилия</string>
+    <string name="Group">Группа</string>
+    <string name="Age">Возраст</string>
+    <string name="Exit">Выход</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">practice3</string>
+    <string name="Welcome">Welcome student</string>
+    <string name="Admission">Admission</string>
+    <string name="Name">Name</string>
+    <string name="Surname">Surname</string>
+    <string name="Group">Group</string>
+    <string name="Age">Age</string>
+    <string name="Exit">Exit</string>
+
+</resources>
